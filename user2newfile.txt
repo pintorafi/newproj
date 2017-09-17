@@ -1,1 +1,5 @@
+<<<<<<< Upstream, based on origin/master
 some text 3
+=======
+some text 4
+>>>>>>> 91a6e88 Changes by user2
